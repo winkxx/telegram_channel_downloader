@@ -10,14 +10,14 @@ from telethon import TelegramClient, events, errors
 from telethon.tl.types import MessageMediaWebPage
 
 #***********************************************************************************#
-api_id = 1234567   # your telegram api id
-api_hash = '1234567890abcdefgh'  # your telegram api hash
-bot_token = '1234567890:ABCDEFGHIJKLMNOPQRST'  # your bot_token
-admin_id = 1234567890  # your chat id
+api_id = 2948911   # your telegram api id
+api_hash = 'd694de0c87f7bee3ecc57da8d0eda7ea'  # your telegram api hash
+bot_token = '1672792479:AAEiOZQbbbP58rkGzFkFodu7QsgNMu-Apa8'  # your bot_token
+admin_id = 1367147811  # your chat id
 save_path = '/usr/downloads'  # file save path
 upload_file_set = True  # set upload file to google drive
-drive_id = '5FyJClXmsqNw0-Rz19'  # google teamdrive id
-drive_name = 'gc'  # rclone drive name
+drive_id = '1e6ZMps5h4d7NVUlZKPAk9xGZAkxOGdqI'  # google teamdrive id
+drive_name = 'team1'  # rclone drive name
 max_num = 5  # 同时下载数量
 # filter file name/文件名过滤
 filter_list = ['你好，欢迎加入 Quantumu', '\n']
